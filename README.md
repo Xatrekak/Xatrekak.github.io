@@ -5,8 +5,11 @@ This pages **_should_** contain links to all of my code projects. These projects
 Also warning I am very much a Network Engineer **NOT** a Software Engineer, any code found here comes with no warranties or promises that it wont immedidtly hard lock your computer. 
 
 
+
+
+
 ### [Lab Loader](https://xatrekak.github.io/lab-loader/)
 
-This is a quick GUI app that I threw together to solve some work flow issues I had while stuying for my CCIE. Uses python to make and mount a disk image containing bootup files for the lab routers. Currently this method only works for the vIOS images and only on Linux.
+`This is a quick GUI app that I threw together to solve some work flow issues I had while stuying for my CCIE. Uses python to make and mount a disk image containing bootup files for the lab routers. Currently this method only works for the vIOS images and only on Linux.
 
-At some point I will be adding Windows support via WSL (it requres GNU MTools). I will also be adding support for the CSR1000v which should have native windows support.
+At some point I will be adding Windows support via WSL (it requres GNU MTools). I will also be adding support for the CSR1000v which should have native windows support.`
