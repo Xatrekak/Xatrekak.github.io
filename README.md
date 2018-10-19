@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Xatrekak's Code Repo
 
-You can use the [editor on GitHub](https://github.com/Xatrekak/Xatrekak.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This pages **_should_** contain links to all of my code projects. These projects are usually initiated to solve a current problem, or address workflow issues. Because of this the code usually contains no comments (I will try to get better about this) and is no longer maintained once it works. However, if any one files an issue against the I have no issues making changes or merging code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Also warning I am very much a Network Engineer **NOT** a Software Engineer, any code found here comes with no warranties or promises that it wont immedidtly hard lock your computer. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Lab Loader](https://xatrekak.github.io/lab-loader/)
 
-```markdown
-Syntax highlighted code block
+This is a quick GUI app that I threw together to solve some work flow issues I had while stuying for my CCIE. Uses python to make and mount a disk image containing bootup files for the lab routers. Currently this method only works for the vIOS images and only on Linux.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xatrekak/Xatrekak.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+At some point I will be adding Windows support via WSL (it requres GNU MTools). I will also be adding support for the CSR1000v which should have native windows support.
