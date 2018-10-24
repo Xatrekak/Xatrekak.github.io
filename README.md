@@ -2,7 +2,7 @@
 
 This pages **_should_** contain links to all of my code projects. These projects are usually initiated to solve a current problem, or address workflow issues. Because of this the code usually contains no comments (I will try to get better about this) and is no longer maintained once it works. However, if any one files an issue against the I have no issues making changes or merging code.
 
-Also warning I am very much a Network Engineer **NOT** a Software Engineer, any code found here comes with no warranties or promises that it wont immedidtly hard lock your computer. 
+Also, a warning that I am very much a Network Engineer, **NOT** a Software Engineer. Any code found here comes with no warranties or promises that it wont immediately brick your computer. 
 
 <br/>
 <br/>
