@@ -16,7 +16,13 @@ Also, a warning that I am very much a Network Engineer, **NOT** a Software Engin
 <br/>
 <br/>
 
-### [Multi-Threaded Ping Script](https://github.com/Xatrekak/Multithreaded-Ping-Script)
+### [Multi-Threaded Ping Script](https://xatrekak.github.io/Multithreaded-Ping-Script)
 >A simple bash script that reads IP addresses from a file "IPLIST.txt". Every IP address spawns a bash sub-process so it is entirly concurrent and very very fast. It has no resouce monitoring built in so if you pass too many IP address it will bog down.
 
 > Results are exported to IPRESULTS.csv as $IP is up/down.
+
+
+
+### [Multi-Threaded TCP Socket test Script](https://xatrekak.github.io/TCP-Socket-Test---Multi-Threaded)
+>This is exactly the same as the ping test but it uses Linux kernal socket to test reachability to port 22 on TCP
+>It will tell you that the IP address is up if it receives any response other than a timeout or address unreachable.
