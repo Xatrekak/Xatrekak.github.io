@@ -27,3 +27,15 @@ Also, a warning that I am very much a Network Engineer, **NOT** a Software Engin
 ### [Multi-Threaded TCP Socket test Script](https://xatrekak.github.io/TCP-Socket-Test---Multi-Threaded)
 >This is exactly the same as the ping test but it uses Linux kernal socket to test reachability to port 22 on TCP
 >It will tell you that the IP address is up if it receives any response other than a timeout or address unreachable.
+
+<br/>
+<br/>
+
+### [Cisco Call Manager Interface - Excel VBA](https://xatrekak.github.io/CUCM-API-GUI-Interface/)
+
+>This is an excel VBA macro using a Form and hiding the excel sheet to emulate a GUI Program. I know this seems silly but it makes importing a code base into a secure system very easy as it has no outside dependencies at all. Also, since it is "just" an Excel sheet it doesn't need to go though a software approval process. 
+
+>This is in a working state but has fallen to the way side as priorites have been shifted at work. Interfacing with the CUCM presents a ton of oppertunites to improve NOC works flows and VoIP availbilties, so I will pick this back up once I have time.
+
+<br/>
+<br/>
