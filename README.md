@@ -11,7 +11,7 @@ Also, a warning that I am very much a Network Engineer, **NOT** a Software Engin
 
 >This is a quick GUI app that I threw together to solve some work flow issues I had while stuying for my CCIE. Uses python to make and mount a disk image containing bootup files for the lab routers. Currently this method only works for the vIOS images and only on Linux.
 
->At some point I will be adding Windows support via WSL (it requres GNU MTools). I will also be adding support for the CSR1000v which should have native windows support.
+>Windows support via WSL has been added. Mtools needs to be installed under WSL to work.
 
 <br/>
 <br/>
